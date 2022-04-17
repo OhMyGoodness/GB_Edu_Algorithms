@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* Geekbrains 17.04.2022
+ Лазин Данил
+ */
+using System;
 using System.Linq;
 
 namespace GeekBrains_EDU
